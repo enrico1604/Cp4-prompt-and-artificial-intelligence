@@ -1,3 +1,10 @@
+Cp4 Prompt and artificial intelligence Turma 1ccpz
+Enrico Marinho de Aquino Rm 569338
+Josue Franco Braga Rm 569174
+Manoel Ferreira Rm 572045
+
+
+
 ## 6. Autoavaliação do agente
 
 ### 5.1 — Perguntas de acurácia
